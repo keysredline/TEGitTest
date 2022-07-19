@@ -8,6 +8,7 @@
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":1,},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":2,},
     {"id":{"name":"tsHighway_1","path":"tilesets/tsHighway_1/tsHighway_1.yy",},"order":1,},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"sprZelLeft","path":"sprites/sprZelLeft/sprZelLeft.yy",},"order":4,},
     {"id":{"name":"sprZelLDown","path":"sprites/sprZelLDown/sprZelLDown.yy",},"order":6,},
     {"id":{"name":"objZel","path":"objects/objZel/objZel.yy",},"order":3,},
